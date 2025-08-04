@@ -1,0 +1,74 @@
+{
+  "editor.tabSize": 2,
+  "editor.fontSize": 15,
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "explorer.compactFolders": false,
+  "editor.fontFamily": "Menlo, sans-serif",
+  "workbench.iconTheme": "material-icon-theme",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "prettier.jsxSingleQuote": true,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.smoothScrolling": true,
+  "workbench.list.smoothScrolling": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairsHorizontal": false,
+
+  // "discord.lowerDetailsEditing": "Hello there, Stalkers :)",
+  // "discord.lowerDetailsDebugging": "Hello there, Stalkers :)",
+  // "editor.suggestSelection": "first",
+
+  "files.exclude": {
+    "**/node_modules": true,
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+
+  "[javascript]": {
+    "editor.tabSize": 2,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.tabSize": 2,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.tabSize": 2,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.tabSize": 2,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "C_Cpp.clang_format_fallbackStyle": "Google",
+  "workbench.sideBar.location": "right",
+  "go.toolsManagement.autoUpdate": true,
+  "cSpell.userWords": [
+    "luxon",
+    "Parallelly",
+    "shadcn",
+    "Somkumar",
+    "tailwindcss"
+  ]
+  // "[json]": {
+  //   "editor.defaultFormatter": "esbenp.prettier-vscode"
+  // },
+  // "[json5]": {
+  //   "editor.defaultFormatter": "esbenp.prettier-vscode"
+  // },
+  // "[jsonc]": {
+  //   "editor.defaultFormatter": "esbenp.prettier-vscode"
+  // },
+  // "[graphql]": {
+  //   "editor.tabSize": 2
+  // },
+  // "[html]": {
+  //   "editor.defaultFormatter": "esbenp.prettier-vscode"
+  // },
+  // "[css]": {
+  //   "editor.defaultFormatter": "esbenp.prettier-vscode"
+  // }
+}
